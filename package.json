@@ -1,6 +1,7 @@
 {
   "name": "learn-npm-package-json",
   "author": "frank",
+  "description": "how to create a json file packafe",
   "dependencies": {
     "express": "^4.14.0"
   },
